@@ -1,0 +1,28 @@
+{
+  "name": "node_postgresql_try",
+  "version": "1.0.0",
+  "description": "A demo of CRUD api using node and posgreSQL",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChrisKegu/node_posgreSQL_demo.git"
+  },
+  "keywords": [
+    "postgesql",
+    "node",
+    "demo"
+  ],
+  "author": "Chris Kegu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ChrisKegu/node_posgreSQL_demo/issues"
+  },
+  "homepage": "https://github.com/ChrisKegu/node_posgreSQL_demo#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "pg": "^8.3.0"
+  }
+}
